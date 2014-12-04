@@ -91,7 +91,8 @@ a {
 .blog-cover {
     @extend .article-cover;
     height: 320px;
-    background-image: url('/images/blog-cover.jpg');
+    /* ↓ここって _config.yml から設定できる?? */
+    background-image: url('/images/yase_oohashi.jpeg');
     background-color:#111;
     background-size:cover;
     background-position:center center;

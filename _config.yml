@@ -1,26 +1,26 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
-  cover_image:  blog-cover.jpg
+  title:        'run 24/7'
+  subtitle:
+  cover_image:
   logo:         logo.png
-  
+
   # Company information
   company:      Incorporated
   url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  facebook:     profile.php?id=100002990917053
+  twitter:      yucao24hours
+  gplus:
+  about_link:
   
   # Product Information
   product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  tagline:
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  yucao24hours
   
   # Sharing settings
   sharing:
