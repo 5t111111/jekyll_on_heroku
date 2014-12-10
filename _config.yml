@@ -20,8 +20,8 @@ inc:
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
+    twitter:    true
+    facebook:   true
     gplus:      false
     hn:         false
     
