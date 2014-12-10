@@ -13,10 +13,6 @@ inc:
   gplus:
   about_link:
   
-  # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:
-  
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
