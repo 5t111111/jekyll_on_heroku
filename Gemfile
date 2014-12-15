@@ -7,3 +7,6 @@ gem 'rake'
 gem 'sass'
 gem 'uglifier'
 gem 'github-pages'
+
+gem 'puma'
+gem 'rack-contrib'
