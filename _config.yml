@@ -43,7 +43,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     ["vendor",".rbenv-version", ".gitignore", "README.md", "Gemfile", "Gemfile.lock", "Procfile", "unicorn.rb", "config.ru", "Procfile"]
 timezone:    nil
 
 # Show future posts
